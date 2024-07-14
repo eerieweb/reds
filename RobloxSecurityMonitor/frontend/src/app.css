@@ -1,0 +1,24 @@
+/* frontend/src/App.css */
+.App {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #282c34;
+  }
+  
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
